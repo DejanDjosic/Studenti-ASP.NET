@@ -1,0 +1,19 @@
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\bin\Debug\PrijavaIspita.LinqToSQL.dll.config
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\bin\Debug\PrijavaIspita.LinqToSQL.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\bin\Debug\PrijavaIspita.LinqToSQL.pdb
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\obj\Debug\PrijavaIspita.LinqToSQL.csprojAssemblyReference.cache
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\obj\Debug\PrijavaIspita.LinqToSQL.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\obj\Debug\PrijavaIspita.LinqToSQL.pdb
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\bin\Debug\PrijavaIspita.Domain.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\bin\Debug\PrijavaIspita.Domain.pdb
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\obj\Debug\PrijavaIspita.LinqToSQL.csproj.CopyComplete
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\bin\Debug\PrijavaIspita.LinqToSQL.dll.config
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\bin\Debug\PrijavaIspita.LinqToSQL.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\bin\Debug\PrijavaIspita.LinqToSQL.pdb
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\bin\Debug\PrijavaIspita.Domain.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\bin\Debug\PrijavaIspita.Domain.pdb
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\obj\Debug\PrijavaIspita.LinqToSQL.csproj.AssemblyReference.cache
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\obj\Debug\PrijavaIspita.LinqToSQL.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\obj\Debug\PrijavaIspita.LinqToSQL.csproj.CopyComplete
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\obj\Debug\PrijavaIspita.LinqToSQL.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.LinqToSQL\obj\Debug\PrijavaIspita.LinqToSQL.pdb

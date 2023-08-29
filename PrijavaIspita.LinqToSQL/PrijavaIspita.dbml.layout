@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="PrijavaIspita">
+  <DataContextMoniker Name="/PrijavaIspitaDataContext" />
+  <nestedChildShapes>
+    <classShape Id="aca9d125-4357-4fd1-8546-a69bcb1010e3" absoluteBounds="1.875, 2.75, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/PrijavaIspitaDataContext/Smer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0f05d86d-3273-4fd2-9ecb-6af32666faef" absoluteBounds="1.8900000000000001, 3.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9c04aed8-2d80-480c-bbd5-1fdda8cfe379" absoluteBounds="5.25, 3, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/PrijavaIspitaDataContext/Student" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5a09ccaf-9d21-4e27-a182-76a5a3a14235" absoluteBounds="5.265, 3.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.875 : 3.47199625651042); (5.25 : 3.47199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/PrijavaIspitaDataContext/Smer/Smer_Student" />
+      <nodes>
+        <classShapeMoniker Id="aca9d125-4357-4fd1-8546-a69bcb1010e3" />
+        <classShapeMoniker Id="9c04aed8-2d80-480c-bbd5-1fdda8cfe379" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

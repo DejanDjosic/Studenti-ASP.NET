@@ -1,0 +1,11 @@
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Domain\bin\Debug\PrijavaIspita.Domain.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Domain\bin\Debug\PrijavaIspita.Domain.pdb
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Domain\obj\Debug\PrijavaIspita.Domain.csprojAssemblyReference.cache
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Domain\obj\Debug\PrijavaIspita.Domain.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Domain\obj\Debug\PrijavaIspita.Domain.pdb
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Domain\bin\Debug\PrijavaIspita.Domain.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Domain\bin\Debug\PrijavaIspita.Domain.pdb
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Domain\obj\Debug\PrijavaIspita.Domain.csproj.AssemblyReference.cache
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Domain\obj\Debug\PrijavaIspita.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Domain\obj\Debug\PrijavaIspita.Domain.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Domain\obj\Debug\PrijavaIspita.Domain.pdb
