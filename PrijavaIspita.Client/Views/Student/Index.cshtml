@@ -1,0 +1,58 @@
+﻿@model IEnumerable<PrijavaIspita.Domain.StudentBo>
+@{
+    ViewBag.Title = "Index";
+}
+
+@{
+    var date = DateTime.Now.ToLongDateString();
+ }
+
+<h2>Prikaz svih studenata - @date</h2>
+<hr/>
+<h3>
+    @Html.ActionLink("Kreiraj novog studenta", "Create", "Student")    
+
+
+</h3>
+
+<div class="row">
+    <div class="list-group col-md-4">
+        @{ 
+            foreach(var student in Model)
+            {
+                <a class="list-group-item" onclick='onSelectStudent(this,@Html.Raw(Json.Encode(student)));'>
+                            <h6>
+                                @Html.DisplayFor(model => student.Ime)          @Html.DisplayFor(model => student.Prezime)
+
+
+                            </h6>
+                </a>
+            }
+        }
+    </div>
+    <div id="detalji" class="col-md-6" style="visibility:hidden">
+        <label style="font-weight:bold">Detalji studenta:</label>
+        <p id="detaljiText"></p>
+        <input id="btnAzuriraj" type="button" class="btn" value="Ažuriraj" />
+        <input id="btnObrisi" type="button" class="btn" value="Obriši" />
+
+
+    </div>
+
+</div>
+<script>
+    function onSelectStudent(htmlCode, student) {
+        $('a.list-group-item.active').removeClass('active');
+        $(htmlCode).addClass('active');
+        document.getElementById('detalji').style.visibility = "visible";
+        document.getElementById('detaljiText').innerHTML = "Godina upisa: " + student.GodinaUpisa + "<br>Smer: " + student.Smer.Naziv;
+        document.getElementById('btnAzuriraj').onclick = function () {
+            window.location.href = "../Student/Edit/" + student.Id;
+        }
+        document.getElementById('btnObrisi').onclick = function () {
+            window.location.href = "../Student/Delete/" + student.Id;
+        }
+          
+        
+    }
+</script>

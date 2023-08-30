@@ -1,0 +1,161 @@
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\PrijavaIspita.Client.dll.config
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\PrijavaIspita.Client.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\PrijavaIspita.Client.pdb
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\csc.exe
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\csc.exe.config
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\csc.rsp
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\csi.exe
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\csi.exe.config
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\csi.rsp
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.AppContext.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Console.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.IO.Compression.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Security.Claims.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.ValueTuple.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\vbc.exe
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\vbc.exe.config
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\vbc.rsp
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\Antlr3.Runtime.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\Newtonsoft.Json.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.Helpers.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.Mvc.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.Optimization.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.Razor.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.WebPages.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\WebGrease.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.Helpers.xml
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.Mvc.xml
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.Optimization.xml
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.Razor.xml
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.WebPages.xml
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\Newtonsoft.Json.xml
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\Antlr3.Runtime.pdb
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\obj\Debug\PrijavaIspita.Client.csprojAssemblyReference.cache
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\obj\Debug\PrijavaIspita.Client.csproj.CopyComplete
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\obj\Debug\PrijavaIspita.Client.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\obj\Debug\PrijavaIspita.Client.pdb
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\PrijavaIspita.Domain.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\PrijavaIspita.LinqToSQL.dll
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\PrijavaIspita.Domain.pdb
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\PrijavaIspita.LinqToSQL.pdb
+C:\Users\ddjos\source\repos\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\PrijavaIspita.LinqToSQL.dll.config
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\PrijavaIspita.Client.dll.config
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\PrijavaIspita.Client.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\PrijavaIspita.Client.pdb
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\csc.exe
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\csc.exe.config
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\csc.rsp
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\csi.exe
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\csi.exe.config
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\csi.rsp
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.AppContext.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Console.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\vbc.exe
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\vbc.exe.config
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\vbc.rsp
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\Antlr3.Runtime.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\Newtonsoft.Json.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\PrijavaIspita.Domain.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\PrijavaIspita.LinqToSQL.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.Helpers.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.Mvc.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.Optimization.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.Razor.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.WebPages.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\WebGrease.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\PrijavaIspita.Domain.pdb
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\PrijavaIspita.LinqToSQL.pdb
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\PrijavaIspita.LinqToSQL.dll.config
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.Helpers.xml
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.Mvc.xml
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.Optimization.xml
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.Razor.xml
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.WebPages.xml
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\Newtonsoft.Json.xml
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\obj\Debug\PrijavaIspita.Client.csproj.AssemblyReference.cache
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\obj\Debug\PrijavaIspita.Client.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\obj\Debug\PrijavaIspita.Client.csproj.CopyComplete
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\obj\Debug\PrijavaIspita.Client.dll
+C:\Users\Dejan\Desktop\lapotop\neki kodovi\PrijavaIspita\PrijavaIspita\PrijavaIspita.Client\obj\Debug\PrijavaIspita.Client.pdb

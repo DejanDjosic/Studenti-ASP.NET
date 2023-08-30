@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="PrijavaIspita" Class="PrijavaIspitaDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=localhost;Initial Catalog=PrijavaIspita;Integrated Security=True" SettingsObjectName="PrijavaIspita.LinqToSQL.Properties.Settings" SettingsPropertyName="PrijavaIspitaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Smer" Member="Smers">
+    <Type Name="Smer">
+      <Column Name="idSmer" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="naziv" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Smer_Student" Member="Students" ThisKey="idSmer" OtherKey="idSmer" Type="Student" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Student" Member="Students">
+    <Type Name="Student">
+      <Column Name="idStudent" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ime" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="prezime" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="godinaUpisa" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="idSmer" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Smer_Student" Member="Smer" ThisKey="idSmer" OtherKey="idSmer" Type="Smer" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
